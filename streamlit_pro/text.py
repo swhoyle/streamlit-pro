@@ -7,8 +7,8 @@ from typing import Literal
 
 def text(
   text: str,
-  font_size: int = None,
-  font_family: str = None,
+  size: int = None,
+  font: str = None,
   color: str = None,
   bold: bool = None,
   italic: bool = None,
